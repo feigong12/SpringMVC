@@ -1,7 +1,6 @@
 
 1）JDK1.7 、Tomcat 7 、Eclipse  下载
-    链接：https://pan.baidu.com/s/1uXsw6IBglqlu1ByB84hx_A 
-    密码：q1vt
+    链接：https://pan.baidu.com/s/1w_arSUb5koXNs4tQSWcXjw 密码：qm63
 
 2）如果发现项目中WebContent/WEB_INF/lib目录下没有jar包，将lib目录下的jar拷贝进去即可！
 
