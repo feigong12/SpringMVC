@@ -1,0 +1,17 @@
+
+第二章：SpringMVC
+	
+	2.1 Servlet
+		Servlet的类的创建；
+		web.xml 的配置
+		doGet和doPost的函数的演示；
+		
+		Servlet有自己的生命周期；（5个）
+			1）web启动的时候，init Servlet
+			2）doGet/doPost函数 （request、reponse）
+			3）web停止的时候会销毁 Servlet
+			
+	2.2 Spring MVC中的DispatcherServlet是实现Serlvet；
+		
+		
+		
