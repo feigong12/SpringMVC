@@ -1,0 +1,16 @@
+
+第一章：简单的Spring
+	
+	1-2：整合Spring；
+			依赖注入和控制反转；
+			控制反转的demo；
+			
+	1-2：依赖注入、构造器默认参数的注入：实战；
+			构造器的默认参数：
+			<constructor-arg index="0" value="red"></constructor-arg>
+			
+			属性注入：	
+			<property name="engine" ref="myEngine"></property>
+
+
+	

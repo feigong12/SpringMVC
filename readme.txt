@@ -32,3 +32,8 @@
         1）整合jstl 的jar包 和 taglib
         2）实例展示
 
+    v6 -------------------------------------
+        1）ResponseBody的使用
+        2）编码转换
+        3）微信小程序-小诗词 rest请求实现；
+            https://github.com/coder10net/XiaoDemo
